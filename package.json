@@ -1,0 +1,24 @@
+{
+  "name": "mcp-dataverse-server",
+  "version": "1.0.0",
+  "description": "\"# MCP Dataverse Server\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Banzaille77/mcp-dataverse-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Banzaille77/mcp-dataverse-server/issues"
+  },
+  "homepage": "https://github.com/Banzaille77/mcp-dataverse-server#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.1",
+    "zod": "^3.25.76"
+  }
+}
